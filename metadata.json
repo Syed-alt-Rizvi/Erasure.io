@@ -1,0 +1,6 @@
+{
+  "name": "Erasure.io",
+  "description": "Powerful privacy audit platform that checks Google sign-in history and account directories to identify registered online accounts, assess dynamic public breaches, and automate right-to-erasure GDPR requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
